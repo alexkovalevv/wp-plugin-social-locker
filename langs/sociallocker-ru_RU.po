@@ -1,0 +1,801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sociallocker\n"
+"POT-Creation-Date: 2017-12-02 12:01+0300\n"
+"PO-Revision-Date: 2017-12-11 23:29+0300\n"
+"Last-Translator: alex.kovalevv@gmail.com <alex.kovalevv@gmail.com>\n"
+"Language-Team: Alex Kovalev <alex.kovalevv@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bizpanda\n"
+"X-Poedit-SearchPathExcluded-1: addons\n"
+"X-Poedit-SearchPathExcluded-2: .git\n"
+"X-Poedit-SearchPathExcluded-3: panda-items\n"
+
+#: plugin/admin/activation.php:20
+msgid "Learn how to use the plugin <i class=\"fa fa-lightbulb-o\"></i>"
+msgstr "Узнайте, как использовать плагин <i class=\"fa fa-lightbulb-o\"></i>"
+
+#: plugin/admin/activation.php:82 plugin/admin/activation.php:93
+msgid ""
+"Please, activate the plugin to get started. Enter a key\n"
+"                                    you received with the plugin into the "
+"form below."
+msgstr ""
+"Пожалуйста, активируйте плагин, чтобы приступить к работе. Введите ключ, "
+"который вы получили, в поле ниже. Не знаете где ключ? <a href=\"#\" id="
+"\"open-faq\">Нажмите здесь</a>."
+
+#: plugin/admin/activation.php:104
+msgid ""
+"Public License is a GPLv2 compatible license.\n"
+"                                    It allows you to change this version of "
+"the plugin and to\n"
+"                                    use the plugin free. Please remember "
+"this license \n"
+"                                    covers only free edition of the plugin. "
+"Premium versions are \n"
+"                                    distributed with other type of a license."
+msgstr ""
+"Public License это GPLv2-совместимая лицензия, которая позволяет изменять и "
+"использовать эту версию плагина бесплатно. Пожалуйста, имейте в виду, что "
+"эта лицензия относится только к бесплатной редакции плагина. Премиум версии "
+"плагина распространяются в рамках другой лицензии."
+
+#: plugin/admin/boot.php:90 plugin/admin/boot.php:170
+#: plugin/admin/pages/help/sociallocker.php:2
+#: plugin/admin/pages/license-manager.php:37 plugin/admin/pages/premium.php:32
+#: plugin/admin/pages/premium.php:138 sociallocker-next.php:127
+#: sociallocker-next.php:144
+msgid "Social Locker"
+msgstr "Социальный замок"
+
+#: plugin/admin/boot.php:95 plugin/admin/boot.php:117
+msgid "What is it?"
+msgstr "Что это такое?"
+
+#: plugin/admin/boot.php:99 plugin/admin/boot.php:121
+msgid "Quick Start Guide"
+msgstr "Быстрый старт"
+
+#: plugin/admin/boot.php:112 plugin/admin/pages/premium.php:193
+msgid "Sign-In Locker"
+msgstr "Замок авторизации"
+
+#: plugin/admin/boot.php:131
+msgid "Plugin: Social Locker"
+msgstr "Плагин: Социальный замок"
+
+#: plugin/admin/boot.php:221 plugin/admin/boot.php:238
+msgid "+ New Locker"
+msgstr "+ Новый замок"
+
+#: plugin/admin/boot.php:237
+msgid "All Lockers"
+msgstr "Список замков"
+
+#: plugin/admin/notices.php:24
+msgid ""
+"5 extra stunning themes, 8 social buttons, the blurring effect, advanced "
+"options, new features & updates every week, dedicated support and more."
+msgstr ""
+"5 дополнительных красивых тем, 8 социальных кнопок, эффект размытия, новые "
+"возможности, которые обновляются и добавляются каждую неделю, качественная "
+"премиум поддержка, нет ссылки на разработчика и многое другое. Привлекайте "
+"больше трафика из социальных сетей вместе с премиум версией Социального "
+"замка!"
+
+#: plugin/admin/notices.php:25
+msgid ""
+"Drive more traffic and build quality followers with Social Locker Premium!"
+msgstr "Получайте больше трафика с премиум версией Социального замка!"
+
+#: plugin/admin/notices.php:28
+msgid ""
+"5 extra stunning themes, 8 social buttons, the blurring effect, advanced "
+"options, new features & updates every week, dedicated support and more. "
+"Drive more traffic and build quality followers with Social Locker Premium!"
+msgstr ""
+"5 дополнительных красивых тем, 8 социальных кнопок, эффект размытия, новые "
+"возможности, которые обновляются и добавляются каждую неделю, качественная "
+"премиум поддержка, нет ссылки на разработчика и многое другое. Привлекайте "
+"больше трафика из социальных сетей вместе с премиум версией Социального "
+"замка!"
+
+#: plugin/admin/notices.php:29
+msgid "Try the premium version for 7 days for free!"
+msgstr "Попробуйте премиум версию плагина в течение 7 дней бесплатно!"
+
+#: plugin/admin/notices.php:55
+msgid "Activate Premium"
+msgstr "Активировать Премиум"
+
+#: plugin/admin/notices.php:60 plugin/admin/notices.php:84
+msgid "No, thanks, not now"
+msgstr "Нет, спасибо"
+
+#: plugin/admin/notices.php:79
+msgid "Learn More & Upgrade"
+msgstr "Узнать больше и обновится"
+
+#: plugin/admin/notices.php:349
+msgid "likes"
+msgstr "лайков"
+
+#: plugin/admin/notices.php:350 plugin/admin/notices.php:354
+msgid "on Facebook"
+msgstr "в Facebook"
+
+#: plugin/admin/notices.php:353 plugin/admin/notices.php:365
+msgid "shares"
+msgstr "репостов"
+
+#: plugin/admin/notices.php:357
+msgid "tweets"
+msgstr "твитов"
+
+#: plugin/admin/notices.php:358 plugin/admin/notices.php:362
+msgid "on Twitter"
+msgstr "в Twitter"
+
+#: plugin/admin/notices.php:361
+msgid "followers"
+msgstr "подписчиков"
+
+#: plugin/admin/notices.php:366
+msgid "on Linkedin"
+msgstr "в Linkedin"
+
+#: plugin/admin/notices.php:369
+msgid "pluses"
+msgstr "плюсов"
+
+#: plugin/admin/notices.php:370
+msgid "on Google"
+msgstr "в Google"
+
+#: plugin/admin/notices.php:373
+msgid "emails"
+msgstr "email адресов"
+
+#: plugin/admin/notices.php:374
+msgid "collected"
+msgstr "в базе"
+
+#: plugin/admin/notices.php:389
+#, php-format
+msgid ""
+"Congrats! You collected more %s emails via <strong>Social Locker</strong>."
+msgstr ""
+"Поздравляем! Вы получили %s email адресов с помощью <strong>Социального "
+"замка</strong>."
+
+#: plugin/admin/notices.php:391
+#, php-format
+msgid "Congrats! You gained more %s %s via <strong>Social Locker</strong>."
+msgstr ""
+"Поздравляем! Вы получили %s %s с помощью <strong>Социального замка</strong>."
+
+#: plugin/admin/notices.php:412
+msgid ""
+"Please do us a BIG favor, give the plugin a 5-star rating on wordpress.org."
+msgstr "Пожалуйста, оставьте отзыв о работе нашего плагина на reformal.ru​"
+
+#: plugin/admin/notices.php:417
+msgid "Sure, you deserved it!"
+msgstr "Конечно вы это заслужили!"
+
+#: plugin/admin/notices.php:420
+msgid "I already did"
+msgstr "Я это уже сделал"
+
+#: plugin/admin/notices.php:423
+msgid "No, not good enough"
+msgstr "Нет, это плохой плагин"
+
+#: plugin/admin/notices.php:430
+#, php-format
+msgid ""
+"Want more %s? Try the <a href=\"%s\" target=\"_blank\">premium version</a>."
+msgstr ""
+"Хотите больше %s? Попробуйте <a href=\"%s\" target=\"_blank\">премиум "
+"версию</a>."
+
+#: plugin/admin/notices.php:474
+msgid "Invalid request type."
+msgstr "Неправильный запрос."
+
+#: plugin/admin/notices.php:550 plugin/admin/notices.php:635
+#, php-format
+msgid "You've got the %s discount on the StyleRoller Add-On!"
+msgstr "Вы получили скидку %s на дополнение StyleRoller!"
+
+#: plugin/admin/notices.php:550 plugin/admin/notices.php:587
+#: plugin/admin/notices.php:635 plugin/admin/notices.php:672
+#, php-format
+msgid "(Expires In %sh)"
+msgstr "(Истекает через %sч)"
+
+#: plugin/admin/notices.php:551
+#, php-format
+msgid ""
+"<p>It's a day since you activated the Social Locker. We would like to make "
+"you a small gift, the %s discount on the StyleRoller Add-on. This is a time-"
+"limited offer which will be valid within 2 days.</p><p>The StyleRoller Add-"
+"on will help you to brand the Social Locker to fit the look and feel of your "
+"website, create your own unique attention-grabbing themes and, as a result, "
+"increase the number of likes and shares.</p>"
+msgstr ""
+"<p>Мы хотели бы сделать вам небольшой подарок - скидку %s на дополнение "
+"StyleRoller. Это ограниченное по времени предложение, которое будет "
+"действовать в течение 2-х дней. </p><p>StyleRoller поможет вам настроить "
+"индивидуальный стиль замка, чтобы соответствовать внешнему виду вашего "
+"сайта, создать свои собственные уникальные, привлекающие внимание темы, "
+"чтобы получить больше лайков и подписчиков.</p>"
+
+#: plugin/admin/notices.php:558 plugin/admin/notices.php:643
+#: plugin/admin/notices.php:680
+#, php-format
+msgid "Get StyleRoller For %s Off"
+msgstr "Получить StyleRoller со скидкой %s"
+
+#: plugin/admin/notices.php:568 plugin/admin/notices.php:605
+#: plugin/admin/notices.php:653 plugin/admin/notices.php:690
+msgid "Hide this message"
+msgstr "Скрыть сообщение"
+
+#: plugin/admin/notices.php:587 plugin/admin/notices.php:672
+#, php-format
+msgid "Last Chance To Get StyleRoller For %s Off!"
+msgstr "Последний шанс получить StyleRoller со скидкой %s!"
+
+#: plugin/admin/notices.php:588
+#, php-format
+msgid ""
+"We have noticed you have been using the Social Locker already more than a "
+"week. Did you know what via the StyleRoller, an add-on for creating own "
+"attention-grabbing themes, you can improve conversions of your lockers by up "
+"to %s? Learn how, click the button below."
+msgstr ""
+"<p>Мы заметили, что вы используете Социальный Замок уже более недели.</"
+"p><p>Знаете ли вы, что с помощью StyleRoller, который позволяет создавать "
+"собственные уникальные темы для Социального Замка, привлекающие еще большее "
+"внимание аудитории, вы можете улучшить конверсию ваших Замков до %s? Нажмите "
+"на кнопку ниже, чтобы узнать как.</p>"
+
+#: plugin/admin/notices.php:595
+msgid "Get StyleRoller For s% Off"
+msgstr "Получить StyleRoller со скидкой %s"
+
+#: plugin/admin/notices.php:636
+#, php-format
+msgid ""
+"We would like to make you a small gift, the %s discount on the StyleRoller "
+"Add-on. This is a time-limited offer which will be valid within 2 days. The "
+"StyleRoller Add-on will help you to brand the Social Locker to fit the look "
+"and feel of your website, create your own unique attention-grabbing themes "
+"and, as a result, increase the number of likes and shares."
+msgstr ""
+"<p>Мы хотели бы сделать вам небольшой подарок - скидку %s на дополнение "
+"StyleRoller. Это ограниченное по времени предложение, которое будет "
+"действовать в течение 2-х дней. </p><p>StyleRoller поможет вам настроить "
+"индивидуальный стиль замка, чтобы соответствовать внешнему виду вашего "
+"сайта, создать свои собственные уникальные, привлекающие внимание темы, "
+"чтобы получить больше лайков и подписчиков.</p>"
+
+#: plugin/admin/notices.php:673
+#, php-format
+msgid ""
+"Did you know what via the StyleRoller, an add-on for creating own attention-"
+"grabbing themes for Social Locker, you can improve conversions of your "
+"lockers by up to %s? Click the button to learn more and get the discount."
+msgstr ""
+"Знаете ли вы, что с помощью StyleRoller, котороый позволяет создавать "
+"собственные уникальные темы оформления для Социального Замка, привлекающие "
+"еще большее внимание аудитории, вы можете улучшить конверсию ваших Замков до "
+"%s? Нажмите на кнопку ниже, чтобы узнать как."
+
+#: plugin/admin/pages/help/sociallocker.php:5
+msgid ""
+"Social Locker hides some piece of value content on your website and ask the "
+"user to like or share (in other words, \"pay with a like\", \"pay with a "
+"tweet\" and so on) to get instant access to your content."
+msgstr ""
+"Это плагин (для Wordpress и jQuery), который скрывает часть ценного контента "
+"на страницах вашего блога, пока пользователь не лайкнет вашу страницу, "
+"поделится ей с друзьями или подпишется на группу. Другими словами, просит "
+"\"заплатить лайком\", чтобы скачать файл, получить скидку, прочитать "
+"окончание статьи, посмотреть видео или увидеть изображение."
+
+#: plugin/admin/pages/help/sociallocker.php:8
+msgid "Social Locker gives you the following benefits:"
+msgstr "Социальный замок имеет следующие преимущества :"
+
+#: plugin/admin/pages/help/sociallocker.php:10
+msgid "More Social Traffic"
+msgstr "Больше социального трафика"
+
+#: plugin/admin/pages/help/sociallocker.php:12
+msgid ""
+"Social Locker will add systematically viral traffic to your website, your "
+"opt-in funnel or your sales-page. When users share or tweet your page to get "
+"access to the content you locked, their friends see it and some of them "
+"visit your website. That repeats again and again."
+msgstr ""
+"Социальный замок систематически будет увеличивать вирусный трафик на ваш "
+"сайт, фан или продающую страницу. Когда пользователь поделится или твитнет "
+"вашу страницу, чтобы получить доступ к закрытому контенту, его друзья увидят "
+"это и некоторые из них посетят ваш сайт. И это будет повторяться снова и "
+"снова."
+
+#: plugin/admin/pages/help/sociallocker.php:14
+msgid "More Quality Fans & Followers"
+msgstr "Больше подписчиков Вконтакте, Twitter, Facebook"
+
+#: plugin/admin/pages/help/sociallocker.php:16
+msgid ""
+"Every blogger and internet entrepreneur knows how difficult it is to get "
+"fans and followers, especially for new websites with a low budget.."
+msgstr ""
+"Каждый блогер и предприниматель знает, как сложно подтолкнуть посетителей "
+"подписаться на страницу в социальных сетях, чтобы увеличить ядро постоянной "
+"аудитории веб-сайта."
+
+#: plugin/admin/pages/help/sociallocker.php:18
+msgid ""
+"Get every visitor of your site to follow you. Keep in contact with your "
+"audience and build loyalty. Just lock some valued content and tell visitors "
+"that the locked content is available only for your fans and followers."
+msgstr ""
+"Посетители заходят и уходят, часто они уже не возвращаются. Налаживайте "
+"контакт со своей аудиторией и мотивируйте пользователей подписаться на ваши "
+"страницы с помощью Социального Замка."
+
+#: plugin/admin/pages/help/sociallocker.php:20
+msgid "Better SEO Ranking"
+msgstr "Улучшите ранжирование вашего сайта при поиске в Google и Яндекс"
+
+#: plugin/admin/pages/help/sociallocker.php:22
+msgid ""
+"Google's search algorithm takes over 200 factors into consideration when "
+"determining which results to show for a search query and in what order. "
+"Social media is one of the most important factors in their algorithm and has "
+"a significant influence on how a site ranks in a search."
+msgstr ""
+"Поисковый алгоритмы Google и Яндекса используют более 200 параметров, чтобы "
+"определить положение веб-сайт при поиске. Популярность сайта в социальных "
+"сетях - один из важнейших параметров, который оказывает значительное влияние "
+"на результаты поиска."
+
+#: plugin/admin/pages/help/sociallocker.php:24
+msgid ""
+"Results in the organic search results' top positions have a high number of "
+"likes, shares, +1's and tweets. So, the better your social media "
+"performance, the better your SEO results."
+msgstr ""
+"Другими словами, чем больше лайков, твитов и плюсов имеет ваша страница, тем "
+"выше она оказывается в результатах поиска."
+
+#: plugin/admin/pages/help/sociallocker.php:27
+msgid "Learn how to configure and use Social Locker"
+msgstr "Нажмите сюда, чтобы узнать, как использовать Социальный замок"
+
+#: plugin/admin/pages/premium.php:29
+msgid "Go Premium"
+msgstr "Получить премиум"
+
+#: plugin/admin/pages/premium.php:67
+msgid "Try Premium Version For 7 Days For Free!"
+msgstr "Попробуйте премиум версию плагина в течение 7 дней бесплатно!"
+
+#: plugin/admin/pages/premium.php:69
+msgid "Upgrade Social Locker To Premium!"
+msgstr "Обновите свой Социальный Замок до Премиум версии!"
+
+#: plugin/admin/pages/premium.php:74
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Social Locker</a> plugin.\n"
+"                We offer you to try the premium version for 7 days "
+"absolutely for free. We sure you will love it."
+msgstr ""
+"Это бесплатная версия популярного плагина <a target=\"_blank\" href=\"%s\"> "
+"Социальный Замок</a>. \n"
+" Вы можете попробовать премиум версию плагина в течении 7 дней абсолютно "
+"бесплатно. Мы уверены, вам понравится!"
+
+#: plugin/admin/pages/premium.php:78
+msgid "Check out the table below to know about the premium features."
+msgstr ""
+"Взгляните на таблицу ниже, чтобы узнать о новых возможностях, которые вы "
+"получите в премиум версии плагина."
+
+#: plugin/admin/pages/premium.php:82
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Social Locker plugin</a> sold on CodeCanyon."
+msgstr ""
+"Это бесплатная версия популярного плагина <a target=\"_blank\" href=\"%s\"> "
+"Social Locker</a>."
+
+#: plugin/admin/pages/premium.php:83
+msgid "Check out the table below to know about all the premium features."
+msgstr ""
+"Взгляните на таблицу ниже, чтобы узнать о новых возможностях, которые вы "
+"получите в премиум версии плагина."
+
+#: plugin/admin/pages/premium.php:89
+msgid "Comparison of Free & Premium Versions"
+msgstr "Сравнение бесплатной и платной версии"
+
+#: plugin/admin/pages/premium.php:92
+msgid "Click on the dotted title to learn more about a given feature."
+msgstr ""
+"Справка: если нажать на подчеркнутый заголовок, вы сможете перейти к "
+"описанию этой возможности"
+
+#: plugin/admin/pages/premium.php:97
+msgid "Common Features"
+msgstr "Общие возможности"
+
+#: plugin/admin/pages/premium.php:99 plugin/admin/pages/premium.php:140
+#: plugin/admin/pages/premium.php:195 plugin/admin/pages/premium.php:257
+#: plugin/admin/pages/premium.php:285 plugin/admin/pages/premium.php:340
+msgid "Free"
+msgstr "Бесплатная"
+
+#: plugin/admin/pages/premium.php:100 plugin/admin/pages/premium.php:141
+#: plugin/admin/pages/premium.php:196 plugin/admin/pages/premium.php:258
+#: plugin/admin/pages/premium.php:286 plugin/admin/pages/premium.php:341
+msgid "Premium"
+msgstr "Премиум"
+
+#: plugin/admin/pages/premium.php:103
+msgid "Unlimited Lockers"
+msgstr "Нет лимита замков"
+
+#: plugin/admin/pages/premium.php:104 plugin/admin/pages/premium.php:105
+#: plugin/admin/pages/premium.php:109 plugin/admin/pages/premium.php:110
+#: plugin/admin/pages/premium.php:114 plugin/admin/pages/premium.php:115
+#: plugin/admin/pages/premium.php:123 plugin/admin/pages/premium.php:130
+#: plugin/admin/pages/premium.php:145 plugin/admin/pages/premium.php:146
+#: plugin/admin/pages/premium.php:150 plugin/admin/pages/premium.php:151
+#: plugin/admin/pages/premium.php:155 plugin/admin/pages/premium.php:156
+#: plugin/admin/pages/premium.php:162 plugin/admin/pages/premium.php:168
+#: plugin/admin/pages/premium.php:174 plugin/admin/pages/premium.php:180
+#: plugin/admin/pages/premium.php:186 plugin/admin/pages/premium.php:200
+#: plugin/admin/pages/premium.php:201 plugin/admin/pages/premium.php:205
+#: plugin/admin/pages/premium.php:206 plugin/admin/pages/premium.php:210
+#: plugin/admin/pages/premium.php:211 plugin/admin/pages/premium.php:217
+#: plugin/admin/pages/premium.php:223 plugin/admin/pages/premium.php:229
+#: plugin/admin/pages/premium.php:235 plugin/admin/pages/premium.php:241
+#: plugin/admin/pages/premium.php:248 plugin/admin/pages/premium.php:262
+#: plugin/admin/pages/premium.php:263 plugin/admin/pages/premium.php:267
+#: plugin/admin/pages/premium.php:268 plugin/admin/pages/premium.php:276
+#: plugin/admin/pages/premium.php:290 plugin/admin/pages/premium.php:291
+#: plugin/admin/pages/premium.php:299 plugin/admin/pages/premium.php:307
+#: plugin/admin/pages/premium.php:315 plugin/admin/pages/premium.php:323
+#: plugin/admin/pages/premium.php:331
+msgid "yes"
+msgstr "да"
+
+#: plugin/admin/pages/premium.php:108
+msgid "Manual Lock (via shortcodes)"
+msgstr "Ручная блокировка (шорткоды)"
+
+#: plugin/admin/pages/premium.php:113
+msgid "Batch Lock (3 modes)"
+msgstr "Массовая блокировка (3х типов)"
+
+#: plugin/admin/pages/premium.php:119
+msgid "Visibility Options"
+msgstr "Настройки отображения"
+
+#: plugin/admin/pages/premium.php:126
+msgid "Advanced Options"
+msgstr "Дополнительные настройки"
+
+#: plugin/admin/pages/premium.php:144
+msgid "Facebook Like"
+msgstr "Facebook мне нравится"
+
+#: plugin/admin/pages/premium.php:149
+msgid "Twitter Tweet"
+msgstr "Twitter твитнуть"
+
+#: plugin/admin/pages/premium.php:154
+msgid "Google +1"
+msgstr "Google плюс"
+
+#: plugin/admin/pages/premium.php:159
+msgid "Facebook Share"
+msgstr "Facebook поделиться"
+
+#: plugin/admin/pages/premium.php:165
+msgid "Twitter Follow"
+msgstr "Twitter подписаться"
+
+#: plugin/admin/pages/premium.php:171
+msgid "LinkedIn Share"
+msgstr "LinkedIn поделиться"
+
+#: plugin/admin/pages/premium.php:177
+msgid "Google Share"
+msgstr "Google поделиться"
+
+#: plugin/admin/pages/premium.php:183
+msgid "YouTube Subscribe"
+msgstr "Синхронизация"
+
+#: plugin/admin/pages/premium.php:199
+msgid "Facebook Sign-In"
+msgstr "Facebook авторизоваться"
+
+#: plugin/admin/pages/premium.php:204
+msgid "Twitter Sign-In"
+msgstr "Twitter авторизоваться"
+
+#: plugin/admin/pages/premium.php:209
+msgid "Google Sign-In"
+msgstr "Google авторизоваться"
+
+#: plugin/admin/pages/premium.php:214
+msgid "LinkedIn Sign-In"
+msgstr "LinkedIn авторизоваться"
+
+#: plugin/admin/pages/premium.php:220
+msgid "Sign-In via Email"
+msgstr "Авторизоваться через Email"
+
+#: plugin/admin/pages/premium.php:226
+msgid "Action \"Twitter Follow\""
+msgstr "Действие \"Twitter подписаться\""
+
+#: plugin/admin/pages/premium.php:232
+msgid "Action \"LinkedIn Follow\""
+msgstr "Действие \"LinkedIn подписаться\""
+
+#: plugin/admin/pages/premium.php:238
+msgid "Action \"Subscribe to Youtube\""
+msgstr "Действие  \"Подписаться на Youtube\""
+
+#: plugin/admin/pages/premium.php:245
+msgid "Export Leads In CSV"
+msgstr "Экспорт подписчиков в CSV"
+
+#: plugin/admin/pages/premium.php:255
+msgid "Overlap Modes"
+msgstr "Режим наложения"
+
+#: plugin/admin/pages/premium.php:261
+msgid "Full"
+msgstr "На всю область"
+
+#: plugin/admin/pages/premium.php:266
+msgid "Transparency"
+msgstr "Прозрачность"
+
+#: plugin/admin/pages/premium.php:272
+msgid "Blurring (new!)"
+msgstr "Размытие(новая!)"
+
+#: plugin/admin/pages/premium.php:283
+msgid "Themes"
+msgstr "Темы"
+
+#: plugin/admin/pages/premium.php:289
+msgid "The \"Secrets\" Theme"
+msgstr "Тема \"Secrets\""
+
+#: plugin/admin/pages/premium.php:295
+msgid "Theme \"Flat\" (new!)"
+msgstr "Тема  \"Flat\" (новая!)"
+
+#: plugin/admin/pages/premium.php:303
+msgid "Theme \"Dandyish\""
+msgstr "Тема  \"Dandyish\""
+
+#: plugin/admin/pages/premium.php:311
+msgid "Theme \"Glass\""
+msgstr "Тема 'Glass'"
+
+#: plugin/admin/pages/premium.php:319
+msgid "Theme \"Friendly Giant\""
+msgstr "Тема  \"Friendly Giant\""
+
+#: plugin/admin/pages/premium.php:327
+msgid "Theme \"Dark Force\""
+msgstr "Тема \"Dark Force\""
+
+#: plugin/admin/pages/premium.php:338
+msgid "Services"
+msgstr "Сервисы"
+
+#: plugin/admin/pages/premium.php:345
+msgid "Updates"
+msgstr "Обновления"
+
+#: plugin/admin/pages/premium.php:346 plugin/admin/pages/premium.php:354
+msgid "not guaranteed"
+msgstr "не гарантировано"
+
+#: plugin/admin/pages/premium.php:348
+msgid "primary updates"
+msgstr "приоритетные обновления"
+
+#: plugin/admin/pages/premium.php:352
+msgid "Support"
+msgstr "Поддержка"
+
+#: plugin/admin/pages/premium.php:356
+msgid "dedicated support"
+msgstr "качественная поддержка"
+
+#: plugin/admin/pages/premium.php:366 plugin/admin/pages/premium.php:470
+msgid "Click Here To Activate Your Free Trial For 7 Days"
+msgstr "Нажмите сюда, чтобы бесплатно активировать премиум версию на 7 дней"
+
+#: plugin/admin/pages/premium.php:369 plugin/admin/pages/premium.php:473
+msgid "(instant activation by one click)"
+msgstr "(мгновенная активация одним щелчком мыши )"
+
+#: plugin/admin/pages/premium.php:378 plugin/admin/pages/premium.php:497
+msgid "Purchase Social Locker Premium For $25 Only"
+msgstr "Купить Премиум Социальный замок за 990 руб прямо сейчас"
+
+#: plugin/admin/pages/premium.php:388 plugin/admin/pages/premium.php:480
+msgid "Or Buy The Social Locker Right Now For $25 Only"
+msgstr "Или купить Социальный замок прямо сейчас за 990 руб"
+
+#: plugin/admin/pages/premium.php:395
+msgid "Drive More Traffic & Build Quality Followers"
+msgstr ""
+"Привлекайте еще больше посетителей и подписчиков для ваших страниц в "
+"социальных сетях!"
+
+#: plugin/admin/pages/premium.php:398
+msgid ""
+"The premium version of the plugin provides 8 social buttons for all major "
+"social networks: Facebook, Twitter, Google, LinkedIn, YouTube, including the "
+"Twitter Follow button. You can use them together or separately for "
+"customized results."
+msgstr ""
+"Премиум версия плагина имеет 11 социальных кнопок для всех основных "
+"российских и зарубежных социальных сетей: Вконтакте, Одноклассники, "
+"Facebook, Twitter, Google, LinkedIn. Вы можете использовать их все вместе "
+"или комбинировать."
+
+#: plugin/admin/pages/premium.php:406
+msgid "Set How, When and For Whom Your Lockers Appear"
+msgstr "Настройки: как, когда и для кого будет отображаться замок"
+
+#: plugin/admin/pages/premium.php:409
+msgid ""
+"Each website has its own unique audience. We know that a good business is an "
+"agile business. The premium version of Social Locker provides 8 additional "
+"options that allow you to configure the lockers flexibly to meet your needs."
+msgstr ""
+"Каждый сайт имеет свою собственную уникальную аудиторию. Мы знаем, что "
+"хороший бизнес - это гибкий бизнес . Премиум версия Социального замка "
+"предоставляет 8 дополнительных опций, которые позволяют настроить ваши замки "
+"для удовлетворения ваших потребностей ."
+
+#: plugin/admin/pages/premium.php:419
+msgid "Create Highly Shareable Content Via The Blur Effect"
+msgstr ""
+"С помощью Эффекта Размытия вы можете вызвать огромный интерес к контенту, "
+"который вы заблокировали. Пользователи будут лайкать и делиться вашей "
+"страницей еще больше!"
+
+#: plugin/admin/pages/premium.php:422
+msgid ""
+"The previous versions of the plugin allowed only to hide the locked content "
+"totally. But recently we have added the long-awaited option to overlap "
+"content and make it transparent or blurred."
+msgstr ""
+"Предыдущие версии плагина полностью скрывали контент. Но в последнее время "
+"мы добавили долгожданную возможность перекрывать контент и делать его "
+"прозрачным или размытым ."
+
+#: plugin/admin/pages/premium.php:428
+msgid ""
+"When we tested this feature on sites of some our customers, we were blown "
+"away how this feature attracts attention of the huge number of visitors. If "
+"people see and understand that they will get after unlocking, the plugin "
+"works more effectively."
+msgstr ""
+"Когда мы тестировали эту функцию на сайтах некоторых наших клиентов, мы "
+"удивились, как эта особенность привлекает к себе внимание огромного "
+"количества посетителей. Если люди видят и понимают , что они получат после "
+"разблокировки, плагин работает более эффективно."
+
+#: plugin/admin/pages/premium.php:432
+msgid "5 Extra Stunning Themes For Your Lockers"
+msgstr "5 дополнительных потрясающих тем для ваших замков"
+
+#: plugin/admin/pages/premium.php:437
+msgid ""
+"The premium version of Social Locker comes with 5 extra impressive, polished "
+"styles which create interest and attract attention (3 for the classic Social "
+"Locker and 2 for the Sign-In Locker). They are nicely animated and don't "
+"look obtrusive:"
+msgstr ""
+"Премиум версия Социального замка поставляется с 5-ю красивыми темами, "
+"которые создают интерес и привлекают к себе внимание ( 3 классические для "
+"Социального замка и 2 для Замка авторизации ).  У тем есть привлекательная "
+"анимация и полностью отсутствует навязчивость. "
+
+#: plugin/admin/pages/premium.php:445
+msgid "Get New Features & Updates Almost Every Week"
+msgstr "Получайте новые возможности и обновления почти каждую неделю"
+
+#: plugin/admin/pages/premium.php:448
+msgid ""
+"We release about 3-4 updates each month, adding new features and fixing "
+"bugs. The Free version does not guarantee that you will get all the major "
+"updates. But if you upgrade to the Premium version, your copy of the plugin "
+"will be always up-to-date."
+msgstr ""
+"Мы выпускаем около 3-4 обновлений в месяц, добавляя новые возможности и "
+"исправляя ошибки. Бесплатная версия не гарантирует, что вы получите все "
+"основные обновления. Но если вы обновитесь до премиум версии, ваша копия "
+"плагина будет всегда актуальной."
+
+#: plugin/admin/pages/premium.php:452
+msgid "Guaranteed Support Within 24h"
+msgstr "Гарантированная поддержка в течение 24 часов"
+
+#: plugin/admin/pages/premium.php:456
+msgid ""
+"All of our plugins come with free support. We care about your plugin after "
+"purchase just as much as you do. We want to make your life easier and make "
+"you happy about choosing our plugins."
+msgstr ""
+"Для всех наших плагинов предоставляется бесплатная поддержка. Мы хотим "
+"сделать вашу жизнь проще и если у вас возникли какие-либо проблемы с "
+"установкой или эксплуатацией плагина, вы всегда можете обратиться к нам за "
+"помощью."
+
+#: plugin/admin/pages/premium.php:460
+msgid ""
+"Unfortunately we receive plenty of support requests every day and we cannot "
+"answer to all the users quickly. But for the users of the premium version "
+"(and the trial version), we guarantee to respond to every inquiry within 1 "
+"business day (typical response time is 3 hours)."
+msgstr ""
+"Мы получаем большое количество писем от наших клиентов и, к сожалению, не "
+"можем ответить всем сразу. Но для пользователей премиум версии (и пробной "
+"версии ), мы гарантируем, что ответим на каждый запрос в течение 1 рабочего "
+"дня ( типичное время отклика составляет 3 часа )."
+
+#: plugin/admin/pages/premium.php:485
+msgid ""
+"You can purchase the premium version at any time within your trial period or "
+"right now. After purchasing you will get a license key to unlock all the "
+"plugin features."
+msgstr ""
+"Вы можете купить премиум версию плагина в любой момент в течение вашего "
+"пробного периода. После покупки вы получите лицензионный ключ, при активации "
+"которого вы получите возможность использовать все функции плагина."
+
+#: plugin/admin/pages/premium.php:487
+#, php-format
+msgid ""
+"<strong>To purchase the Social Locker</strong>, <a target=\"_blank\" href="
+"\"%s\">click here</a> to visit the plugin page on CodeCanyon. Then click the "
+"\"Purchase\" button on the right sidebar."
+msgstr ""
+"Чтобы купить Социальный Замок, перейдите на <a target=\"_blank\" href=\"%s"
+"\">страницу плагина</a>, выберите наиболее подходящий для вас тип лицензии и "
+"нажмите на кнопку \"Купить\"."

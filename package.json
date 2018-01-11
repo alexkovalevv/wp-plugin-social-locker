@@ -1,0 +1,112 @@
+{
+  "assemblies": {
+    "__global__": {
+      "delete": [
+        "/libs/onepress/compiler",
+        "compiler.ini",
+        "package.json",
+        "node_modules",
+        "Gruntfile.js",
+        "git-submodules.sh",
+        "/sr/"
+      ]
+    },
+    "build": {
+      "free": {
+        "delete": [
+          "advanced-options.php",
+          "visability-options.php",
+          "/libs/onepress/admixture",
+          "addons/styleroller-addon",
+          "addons/styleroller",
+          "addons/buttons-pack/plugin/assets/js/buttons-pack-premium.min.js",
+          "bizpanda-popup-mode"
+        ]
+      },
+      "premium": {
+        "delete": [
+          "more-features.php",
+          "addons/styleroller-addon",
+          "addons/styleroller",
+          "addons/bizpanda-popup-mode",
+          "addons/buttons-pack/plugin/assets/js/buttons-pack-free.min.js"
+        ]
+      },
+      "ultimate": {
+        "delete": [
+          "more-features.php",
+          "addons/bizpanda-popup-mode",
+          "addons/buttons-pack/plugin/assets/js/buttons-pack-free.min.js"
+        ]
+      },
+      "offline": {
+        "extends": "ultimate"
+      }
+    },
+    "lang": {
+      "en_US": {
+        "delete": [
+          "bizpanda/extras/wppage"
+        ]
+      },
+      "ru_RU": {
+        "delete": [
+        ]
+      }
+    }
+  },
+  "constants": {
+    "var": "sociallocker",
+    "version": "5.0.1",
+    "api": "http://api.byonepress.com/1.1/",
+    "sociallocker": [
+      {
+        "value": "Social Locker | BizPanda"
+      },
+      {
+        "if": {
+          "lang": "ru_RU",
+          "build": "free"
+        },
+        "value": "Социальный Замок | Бесплатный"
+      },
+      {
+        "if": {
+          "lang": "ru_RU",
+          "build": "premium"
+        },
+        "value": "Социальный Замок | Базовый"
+      },
+      {
+        "if": {
+          "lang": "ru_RU",
+          "build": "ultimate"
+        },
+        "value": "Социальный Замок | Максимальный"
+      }
+    ],
+    "name": [
+      {
+        "value": "sociallocker-next"
+      }
+    ],
+    "description": [
+      {
+        "value": "Social Locker is a set of social buttons and a locker in one bottle. <strong>Give people a reason</strong> why they need to click your social buttons. Ask people to “pay” with a Like/Tweet/+1 to get access to your content, to get discount, to download, to watch a video, to view a funny picture or so. And it will help you to get more likes/tweets/+1s, traffic and customers!"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "Социальный Замок скрывает часть контента на вашем сайте, пока пользователь не нажмет на одну из предложенных социальных кнопок. Начните наконец привлекать посетителей из социальных сетей! Вы ведь хотите больше зарабатывать на рекламе? Генерировать больше продаж? Социальный Замок  - это надежное решение, которое позволяет пользователям \"заплатить лайком\" за доступ к вашему контенту. Англоязычная версия плагина уже более года успешно используется более чем на 10 000 зарубежных сайтов и широко применяется в социальном маркетинге."
+      }
+    ],
+    "purchaseUrl": [
+      {
+        "value": "http://codecanyon.net/item/social-locker-for-wordpress/3667715"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "http://sociallocker.ru/?utm_source=plugin&utm_medium=plugin-uri&utm_campaign=plugin-uri"
+      }
+    ]
+  }
+}
