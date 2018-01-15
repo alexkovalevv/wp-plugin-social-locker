@@ -4,7 +4,7 @@
 	 * Plugin URI: {comp:purchaseUrl}
 	 * Description: {comp:description}
 	 * Author: OnePress
-	 * Version: 5.0.1
+	 * Version: 5.0.2
 	 * Author URI: http://byonepress.com
 	 */
 	
@@ -27,7 +27,7 @@
 	
 	// build: free, premium, ultimate
 	if( !defined('BUILD_TYPE') ) {
-		define('BUILD_TYPE', 'free');
+		define('BUILD_TYPE', 'premium');
 	}
 
 	// language: en_US, ru_RU
@@ -37,7 +37,7 @@
 	
 	// license: free, paid
 	if( !defined('LICENSE_TYPE') ) {
-		define('LICENSE_TYPE', 'free');
+		define('LICENSE_TYPE', 'paid');
 	}
 	
 	if( !defined('ONP_DEBUG_NETWORK_DISABLED') ) {
@@ -114,7 +114,7 @@
 				$sociallocker = new Factory000_Plugin(__FILE__, array(
 					'name' => 'sociallocker-rus',
 					'title' => __('Social Locker', 'bizpanda'),
-					'version' => '5.0.1',
+					'version' => '5.0.2',
 					'assembly' => BUILD_TYPE,
 					'lang' => LANG_TYPE,
 					'api' => 'http://api.sociallocker.ru/1.1/',
@@ -131,7 +131,7 @@
 				$sociallocker = new Factory000_Plugin(__FILE__, array(
 					'name' => 'sociallocker-rus',
 					'title' => __('Social Locker', 'bizpanda'),
-					'version' => '5.0.1',
+					'version' => '5.0.2',
 					'assembly' => BUILD_TYPE,
 					'lang' => LANG_TYPE,
 					'api' => 'http://api.sociallocker.ru/1.1/',
@@ -149,7 +149,7 @@
 			$sociallocker = new Factory000_Plugin(__FILE__, array(
 				'name' => 'sociallocker-next',
 				'title' => 'Social Locker',
-				'version' => '5.0.1',
+				'version' => '5.0.2',
 				'assembly' => BUILD_TYPE,
 				'lang' => LANG_TYPE,
 				'api' => 'http://api.byonepress.com/1.1/',
