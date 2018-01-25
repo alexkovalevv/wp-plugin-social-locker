@@ -99,6 +99,7 @@
 		BizPanda::enableFeature('lockers');
 		BizPanda::enableFeature('terms');
 		BizPanda::enableFeature('social');
+		BizPanda::enableFeature('vk');
 		
 		if( !onp_build('free') ) {
 			BizPanda::enableFeature('linkedin');
