@@ -57,7 +57,7 @@
   },
   "constants": {
     "var": "sociallocker",
-    "version": "5.0.2",
+    "version": "5.1.0",
     "api": "http://api.byonepress.com/1.1/",
     "sociallocker": [
       {

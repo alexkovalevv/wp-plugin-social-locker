@@ -4,7 +4,7 @@
 	 * Plugin URI: {comp:purchaseUrl}
 	 * Description: {comp:description}
 	 * Author: OnePress
-	 * Version: 5.0.2
+	 * Version: 5.1.0
 	 * Author URI: http://byonepress.com
 	 */
 	
@@ -115,7 +115,7 @@
 				$sociallocker = new Factory000_Plugin(__FILE__, array(
 					'name' => 'sociallocker-rus',
 					'title' => __('Social Locker', 'bizpanda'),
-					'version' => '5.0.2',
+					'version' => '5.1.0',
 					'assembly' => BUILD_TYPE,
 					'lang' => LANG_TYPE,
 					'api' => 'http://api.sociallocker.ru/1.1/',
@@ -132,7 +132,7 @@
 				$sociallocker = new Factory000_Plugin(__FILE__, array(
 					'name' => 'sociallocker-rus',
 					'title' => __('Social Locker', 'bizpanda'),
-					'version' => '5.0.2',
+					'version' => '5.1.0',
 					'assembly' => BUILD_TYPE,
 					'lang' => LANG_TYPE,
 					'api' => 'http://api.sociallocker.ru/1.1/',
@@ -150,7 +150,7 @@
 			$sociallocker = new Factory000_Plugin(__FILE__, array(
 				'name' => 'sociallocker-next',
 				'title' => 'Social Locker',
-				'version' => '5.0.2',
+				'version' => '5.1.0',
 				'assembly' => BUILD_TYPE,
 				'lang' => LANG_TYPE,
 				'api' => 'http://api.byonepress.com/1.1/',
